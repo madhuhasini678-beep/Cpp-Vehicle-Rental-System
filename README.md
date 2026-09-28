@@ -41,8 +41,4 @@ The application allows users to add vehicles, view vehicles, search by vehicle I
                 Vehicle
                /       \
              Car       Bike
-## How to run 
- 
-Compile:
-```bash
-g++ VehicleRental.cpp -o VehicleRental           
+         
